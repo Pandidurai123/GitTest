@@ -2,6 +2,5 @@
 <head></head>
 <body>
 <p>Hello world</p>
-<p>main branch</p>
 </body>
 </html>
